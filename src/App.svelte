@@ -68,7 +68,7 @@
       <section>
         <div class="bg-white px-5 pb-5 w-full flex justify-center">
           <figure>
-            <img class="rounded-md" src="./mobileBanner.png" alt="bannerimg">
+            <img class="rounded-md" src="./bannerweb.png" alt="bannerimg">
           </figure>
         </div>
       </section>
