@@ -49,7 +49,7 @@
     <section class="border-t border-gray-200">
       <div class="bg-white px-4 py-5 w-full flex justify-center space-x-0.5">
         <aside class="mt-1 text-md font-semibold text-center text-gray-600">
-          <p>Frontend y Mobile developer apasionado por crear</p>
+          <p>Frontend y Mobile Developer apasionado por crear</p>
           experiencias digitales sorprendentes 🎨🖌
         </aside>
       </div>
