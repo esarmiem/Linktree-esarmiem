@@ -1,3 +1,10 @@
+<script>
+  import Banner from "./Banner.svelte";
+  import Links from "./Links.svelte";
+
+  let profilecopia = "profilecopia.jpg";
+</script>
+
 <main class="flex-block max-w-xl p-4 md:pd-8 mx-auto mt-4">
   <section class="bg-white shadow overflow-hidden rounded-lg">
     <section class="px-4 py-5 sm:px-6 flex justify-between">
@@ -40,8 +47,8 @@
       </div>
       <figure>
         <img
-          class="rounded-full w-48 "
-          src="./profilecopia.jpg"
+          class="rounded-full w-48"
+          src= {profilecopia}
           alt="Elder Sarmiento"
         />
       </figure>
@@ -54,24 +61,9 @@
         </aside>
       </div>
 
-      <section>
-        <div class="bg-white px-5 pb-5 w-full flex justify-center">
-          <figure>
-            <img class="rounded-md" src="./bannerweb.png" alt="bannerimg" />
-          </figure>
-        </div>
-      </section>
+      <Banner />
+      <Links />
 
-      <div class="bg-orange-200 px-5 py-5 w-full flex justify-between">
-        <a
-          class="text-sm font-bold text-gray-700 text-center transition duration-300 ease-in-out hover:scale-105 hover:underline cursor-pointer"
-          href="https://sassy-detective-60f.notion.site/Dart-e1d4a04c176646ed9c40c1224df8620b"
-          target="_blank"
-        >
-          Dart desde 0 • aprende con mis notas en Notion
-        </a>
-        <span>📖</span>
-      </div>
     </section>
   </section>
 </main>
