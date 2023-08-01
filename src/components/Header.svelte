@@ -2,7 +2,7 @@
   <p class="text-center text-sm font-medium">
     <a href="https://github.com/esarmiem" target="_blank">
       📲 Descubre mi perfil tecnológico y conoce los proyectos en los que estoy
-      trabajando 🔗
+      trabajando 💾
     </a>
   </p>
 </header>
