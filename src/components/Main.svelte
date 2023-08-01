@@ -17,7 +17,7 @@
           #Flutter #Android #Kotlin #Dart #JavaScript #React #Svelte #Tailwind
           #Figma
         </p>
-        <div class="mt-6 flex justify-start space-x-1">
+        <div class="mt-6 flex justify-start space-x-4">
           <a href="https://github.com/esarmiem" target="_blank">
             <svg
               class="w-6 h-6 cursor-pointer text-gray-600 hover:text-[#6e5494] fill-current"
@@ -45,7 +45,7 @@
           </a>
           <a href="https://www.instagram.com/eldersarmiento/" target="_blank">
             <svg
-              class="w-6 h-6 cursor-pointer text-gray-600 hover:text-blue-500 fill-current"
+              class="w-6 h-6 cursor-pointer text-gray-600 hover:text-yellow-500 fill-current"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
             >
@@ -56,7 +56,7 @@
           </a>
           <a href="https://www.threads.net/@eldersarmiento" target="_blank">
             <svg
-              class="w-6 h-6 cursor-pointer text-gray-600 hover:text-blue-500 fill-current"
+              class="w-6 h-6 cursor-pointer text-gray-600 hover:text-cyan-500 fill-current"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
             >
