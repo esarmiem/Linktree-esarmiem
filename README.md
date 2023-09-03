@@ -6,7 +6,8 @@ A free Linktree alternative. 🔗
 
 Developed with Svelte + Tailwind.
 
-![home](https://github.com/esarmiem/Linktree-esarmiem/assets/114357859/22351c7b-cc63-4f05-9bef-06c5e3e181cb)
+![linktree](https://github.com/esarmiem/Linktree-esarmiem/assets/114357859/51d27386-8abd-4a23-bb9f-f2b91389a8b6)
+
 
 
 
