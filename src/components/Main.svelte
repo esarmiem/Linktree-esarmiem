@@ -34,7 +34,6 @@
           experiencias digitales sorprendentes 🎨🖌
         </aside>
       </div>
-
       <Banner />
       <Links />
     </section>
