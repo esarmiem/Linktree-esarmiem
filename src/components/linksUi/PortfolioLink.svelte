@@ -4,7 +4,7 @@
     href="https://esarmiem-links.com/"
     target="_blank"
   >
-    My Portfolio
+    Portafolio
   </a>
   <span>
     <svg
