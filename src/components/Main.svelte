@@ -2,7 +2,7 @@
   import Banner from "./Banner.svelte";
   import Links from "./Links.svelte";
   import Icons from "./socialIcons/Icons.svelte";
-  let profilecopia = "profilecopia.jpg";
+  let profilecopia = "profilecopia.webp";
 </script>
 
 <main class="flex-block max-w-xl p-4 md:pd-8 mx-auto mt-4">

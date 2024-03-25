@@ -1,4 +1,4 @@
-<header class="bg-orange-200 flex justify-center px-4 py-3 text-black">
+<header class="bg-stone-400 flex justify-center px-4 py-3 text-black">
   <p class="hidden md:flex items-center text-center gap-2 text-sm font-medium">
     📲 Únete a mi red y descubre contenido de programación que comparto con la
     comunidad.
