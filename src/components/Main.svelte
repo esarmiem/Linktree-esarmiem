@@ -30,8 +30,8 @@
     <section class="border-t border-gray-200">
       <div class="bg-white px-4 py-5 w-full flex justify-center space-x-0.5">
         <aside class="mt-1 text-sm md:text-lg lg:text-lg whitespace-normal font-semibold text-center text-gray-600">
-          <p>Frontend y Mobile Developer apasionado por crear</p>
-          experiencias digitales sorprendentes 🎨🖌
+          <p>Analista IT Senior y Desarrollador de Software</p>
+          + 9 años de experiencia en la industria tech 🎨
         </aside>
       </div>
       <Banner />

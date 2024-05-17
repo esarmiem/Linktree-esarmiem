@@ -8,9 +8,9 @@
 </script>
 
 <Blog/>
+<GithubLink/>
 <PortfolioLink/>
 <DartLink/>
 <GoogleLink/>
-<GithubLink/>
 <GetOnBoardLink/>
 
